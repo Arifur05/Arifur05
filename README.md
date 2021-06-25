@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arifur05
+- 👋 Hi, I’m Arifur Rashid
 - 👀 I’m interested in Android and Backend Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on android applications
