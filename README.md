@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arifur Rashid
 - 👀 I’m interested in Android and Backend Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Backend.
 - 💞️ I’m looking to collaborate on android applications
 - 📫 To reach me please contact arifrashid06@gmail.com
 
