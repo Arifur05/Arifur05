@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arifur Rashid
 - 👀 I’m interested in Android and Backend Development
-- 🌱 I’m currently learning Backend.
-- 💞️ I’m looking to collaborate on android applications
+- 🌱 I'm currently learning database and react
+- 💞️ I’m looking to collaborate on android applications, backend applications
 - 📫 To reach me please contact arifrashid06@gmail.com
 
 <!---
