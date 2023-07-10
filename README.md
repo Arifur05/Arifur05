@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ##
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifur05&theme=dracula"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifur05&theme=radical"  />
 </div>
 
 
